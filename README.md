@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [WebSite](https://codedemons.github.io/)
 
-- 🌱 I’m currently learning **cakephp**
+- 🌱 I’m currently learning **Fluter and Firebase**
 
 - 👯 I’m looking to collaborate on [Social Verde](https://github.com/Codedemons/Social-Red-Verde)
 
 - 🤝 I’m looking for help with [Practica](https://github.com/Codedemons/Desarrollo-de-la-Practica-Tau-Prolog-1)
 
-- 💬 Ask me about **php, c, c++. vb, java**
+- 💬 Ask me about **php, c, c++. vb, java, python**
 
 - 📫 How to reach me **codedemoscm@gmail.com**
 
