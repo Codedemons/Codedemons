@@ -1,10 +1,10 @@
 <img align='right' src="https://github.com/Codedemons/Codedemons/blob/main/header_.png" width="100%" height="20%">
 
-<br>
+
 
 <h1 align="center">Welcome developers 👋, I'm Coderp</h1>
 
-<h4 align="center">Cross-platform software developer dedicated primarily to web and desktop software development, with backgrounds in design and robotics.</h4>
+Cross-platform software developer dedicated primarily to web and desktop software development, with backgrounds in design and robotics.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedemons&label=Profile%20views&color=0e75b6&style=flat" alt="codedemons" /> </p>
 
