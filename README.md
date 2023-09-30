@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **developing software**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   +52 9381236756
 </p>
@@ -29,8 +29,7 @@ Portafolio
   https://codedemons.github.io/
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+### Languages and Tools:
   
 **Platforms**
   
@@ -98,7 +97,7 @@ Portafolio
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<h3 align="left">Support:</h3>
+### Support:
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/codedemons"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/codedemons" /></a></p><br><br>
 <br>
 
@@ -107,3 +106,5 @@ Portafolio
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codedemons&show_icons=true&locale=en" alt="codedemons" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&" alt="codedemons" /></p>
+
+### Organizations:
