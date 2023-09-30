@@ -5,20 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedemons&label=Profile%20views&color=0e75b6&style=flat" alt="codedemons" /> </p>
 
 - 🔭 I’m currently working on [WebSite](https://codedemons.github.io/)
-
 - 🌱 I’m currently learning **Fluter and Firebase**
-
 - 👯 I’m looking to collaborate on [Herramientas de Python](https://github.com/Codedemons/Herramientas)
-
 - 🤝 I’m looking for help with [Practica](https://github.com/Codedemons/Desarrollo-de-la-Practica-Tau-Prolog-1)
-
-- 💬 Ask me about **php, c, c++. vb, java, python**
-
+- :books: Ask me about **php, c, c++. vb, java, python**
 - 📫 How to reach me **codedemoscm@gmail.com**
-
 - 📄 Know about my experiences developer front-ent and developer front-ent
-
 - ⚡ Fun fact **developing software**
+
 
 ### Connect with me:
 <p align="left">
@@ -108,3 +102,9 @@ Portafolio
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&" alt="codedemons" /></p>
 
 ### Organizations:
+
+
+```
+Never give up, there will always be opportunities, but just change your perspectives and look for them.
+```
+
