@@ -1,7 +1,5 @@
 <img align='right' src="https://github.com/Codedemons/Codedemons/blob/main/header_.png" width="100%" height="20%">
 
-
-
 <h1 align="center">Welcome developers 👋, I'm Coderp</h1>
 
 Cross-platform software developer dedicated primarily to web and desktop software development, with backgrounds in design and robotics.
@@ -99,13 +97,14 @@ Portafolio
 
 ### Support:
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/codedemons"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/codedemons" /></a></p><br><br>
-<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedemons&show_icons=true&locale=en&layout=compact" alt="codedemons" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codedemons&show_icons=true&locale=en" alt="codedemons" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&" alt="codedemons" /></p>
+
+### GitHub Analitics:
+<p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedemons&theme=dark&show_icons=true" alt="codedemons"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&&theme=dark&show_icons=true" alt="codedemons"/>
+</p>
+
 
 ### Organizations:
 
