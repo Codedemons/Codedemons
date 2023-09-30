@@ -4,13 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedemons&label=Profile%20views&color=0e75b6&style=flat" alt="codedemons" /> </p>
 
+
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlnMGNhbGpzdmw3OGRtczNianFjNWRnMzExenh4bzFsa21xdTI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="330" height="210">
+ 
 - 🔭 I’m currently working on [WebSite](https://codedemons.github.io/)
 - 🌱 I’m currently learning **Fluter and Firebase**
 - 👯 I’m looking to collaborate on [Herramientas de Python](https://github.com/Codedemons/Herramientas)
 - 🤝 I’m looking for help with [Practica](https://github.com/Codedemons/Desarrollo-de-la-Practica-Tau-Prolog-1)
 - :books: Ask me about **php, c, c++. vb, java, python**
 - 📫 How to reach me **codedemoscm@gmail.com**
-- 📄 Know about my experiences developer front-ent and developer front-ent
+- 📄 Experiences developer front-ent and developer front-ent
 - ⚡ Fun fact **developing software**
 
 
