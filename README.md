@@ -1,10 +1,12 @@
+<img align='right' src="https://github.com/Codedemons/Codedemons/blob/main/header_.png" width="100%" height="20%">
+
+<br>
+
 <h1 align="center">Welcome developers 👋, I'm Coderp</h1>
 
 <h4 align="center">Cross-platform software developer dedicated primarily to web and desktop software development, with backgrounds in design and robotics.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedemons&label=Profile%20views&color=0e75b6&style=flat" alt="codedemons" /> </p>
-
-
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlnMGNhbGpzdmw3OGRtczNianFjNWRnMzExenh4bzFsa21xdTI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="330" height="210">
  
