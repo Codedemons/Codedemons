@@ -101,8 +101,8 @@ Portafolio
 
 ### GitHub Analitics:
 <p>
-   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=codedemons&theme=dark&show_icons=true" alt="codedemons"/>
-   <img height="140em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&&theme=dark&show_icons=true" alt="codedemons"/>
+   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=codedemons&theme=dark&show_icons=true" alt="codedemons"/>
+   <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&&theme=dark&show_icons=true" alt="codedemons"/>
 </p>
 
 
