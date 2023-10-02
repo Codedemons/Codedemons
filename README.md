@@ -14,7 +14,7 @@ Cross-platform software developer dedicated primarily to web and desktop softwar
 - 🤝 I’m looking for help with [Practica](https://github.com/Codedemons/Desarrollo-de-la-Practica-Tau-Prolog-1)
 - :books: Ask me about **php, c, c++. vb, java, python**
 - 📫 How to reach me **codedemoscm@gmail.com**
-- 📄 Experiences in `developer front-ent and developer front-ent`
+- 📄 Experiences in `Developer Front-end and Developer Back-end`
 - ⚡ Fun fact **developing software**
 
 
