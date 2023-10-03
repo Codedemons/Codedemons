@@ -105,6 +105,11 @@ Portafolio
    <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&&theme=dark&show_icons=true" alt="codedemons"/>
 </p>
 
+### Proyects 
+<a href="https://github.com/Codedemons/Herramientas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedemons&repo=Herramientas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 ### Organizations:
 
