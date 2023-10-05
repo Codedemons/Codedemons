@@ -107,11 +107,11 @@ Portafolio
 
 ### GitHub Status
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codedemons&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codedemons&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codedemons&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codedemons&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codedemons&theme=solarized_dark&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codedemons&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codedemons&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codedemons&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codedemons&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codedemons&theme=dark&utcOffset=8">
 </p>
 
 
