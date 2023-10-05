@@ -100,10 +100,21 @@ Portafolio
 
 
 ### GitHub Analitics:
-<p>
+<p align="center">
    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=codedemons&theme=dark&show_icons=true" alt="codedemons"/>
    <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&&theme=dark&show_icons=true" alt="codedemons"/>
 </p>
+
+### GitHub Status
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codedemons&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codedemons&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codedemons&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codedemons&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codedemons&theme=solarized_dark&utcOffset=8">
+</p>
+
+
 
 ### Proyects 
 <a href="https://github.com/Codedemons/Herramientas">
