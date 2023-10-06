@@ -5,8 +5,8 @@
 Cross-platform software developer dedicated primarily to web and desktop software development, with backgrounds in design and robotics.
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcodedemons&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fcodedemons&label=today-visitors&labelColor=%23ba68c8&countColor=%23697689)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcodedemons&label=total-visitors&labelColor=%230fbfa8&countColor=%23697689)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fcodedemons&label=today-visitors&labelColor=%230fbfa8&countColor=%23697689)
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlnMGNhbGpzdmw3OGRtczNianFjNWRnMzExenh4bzFsa21xdTI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="330" height="210">
  
