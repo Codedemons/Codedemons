@@ -127,6 +127,9 @@ Portafolio
 </a>
 
 
+### Certifications 🏆:
+
+
 ### Organizations:
 
 
@@ -134,3 +137,15 @@ Portafolio
 Never give up, there will always be opportunities, but just change your perspectives and look for them.
 ```
 
+<!-- 
+
+Enlaces 
+https://shields.io/badges
+https://wakatime.com/
+https://readme-typing-svg.herokuapp.com/demo/
+Plantillas
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+Ejemplos
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master
+
+-->
