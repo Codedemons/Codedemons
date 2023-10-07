@@ -1,5 +1,6 @@
 <img align='right' src="https://github.com/Codedemons/Codedemons/blob/main/header_.png" width="100%" height="20%">
-
+ <br>
+ <br>
 <h1 align="center">Welcome developers 👋, I'm Coderp</h1>
 
 Cross-platform software developer dedicated primarily to web and desktop software development, with backgrounds in design and robotics.
@@ -105,6 +106,7 @@ Portafolio
        <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"/> 
     </a>
  </kbd>
+ <br>
  <br>
  <kbd>
     <kbd>Robotics</kbd>
