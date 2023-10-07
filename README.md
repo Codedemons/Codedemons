@@ -169,10 +169,9 @@ Cross-platform software developer dedicated primarily to web and desktop softwar
 
 
 ### Certifications 🏆:
-
+<img src="https://github.com/Codedemons/Codedemons/blob/main/Python%20.jpg" width="330" height="210">
 
 ### Organizations:
-
 
 ```
 Never give up, there will always be opportunities, but just change your perspectives and look for them.
