@@ -86,6 +86,9 @@ Portafolio
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />
  </kbd>
+
+ <br>
+ <br>
  <kbd>
     <kbd>Design</kbd>
     <br>
@@ -106,8 +109,6 @@ Portafolio
        <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"/> 
     </a>
  </kbd>
- <br>
- <br>
  <kbd>
     <kbd>Robotics</kbd>
     <br>
@@ -128,26 +129,36 @@ Portafolio
 ### Support:
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/codedemons"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/codedemons" /></a></p><br><br>
 
+### Github 📈:
+<details>	
+  <br />
+  <summary><b>Analitics ⚙️: </b></summary>
+  <p align="center">
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=codedemons&theme=dark&show_icons=true" alt="codedemons"/>
+    <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&&theme=dark&show_icons=true" alt="codedemons"/>
+  </p> 
+</details>
 
-### GitHub Analitics:
-<p align="center">
-   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=codedemons&theme=dark&show_icons=true" alt="codedemons"/>
-   <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedemons&&theme=dark&show_icons=true" alt="codedemons"/>
-</p>
+<details>	
+  <br />
+  <summary><b>Status</b></summary>
+  <p align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codedemons&theme=dark">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codedemons&theme=dark">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codedemons&theme=dark">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codedemons&theme=dark">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codedemons&theme=dark&utcOffset=8">
+  </p> 
+</details>
 
-### GitHub Status
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codedemons&theme=dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codedemons&theme=dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codedemons&theme=dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codedemons&theme=dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codedemons&theme=dark&utcOffset=8">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codedemons&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" />
-  </a> 
-</p>
+<details>	
+  <br/>
+  <summary><b>  Trophies 🏆:</b></summary>
+  <p align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+         <img src="https://github-profile-trophy.vercel.app/?username=codedemons&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" />
+  </p> 
+</details>
 
 ### Proyects 
 <a href="https://github.com/Codedemons/Herramientas">
