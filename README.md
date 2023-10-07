@@ -22,9 +22,13 @@ Cross-platform software developer dedicated primarily to web and desktop softwar
 
 
 ### Connect with me:
-<p align="left">
-  +52 9381236756
-</p>
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9381236756)
+<a href="https://codedemons.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portafolio-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="Visit my blog">
+    
+</a>
+
+
 Portafolio 
 <p>
   https://codedemons.github.io/
