@@ -181,6 +181,7 @@ Never give up, there will always be opportunities, but just change your perspect
 
 Enlaces 
 https://shields.io/badges
+https://simpleicons.org/?q=briefc
 https://wakatime.com/
 Letras con recolidos
 https://readme-typing-svg.herokuapp.com/demo/
